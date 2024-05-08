@@ -20,7 +20,7 @@ const projectsData = [
     description: 'Solving Mathmatics and many more useful things are here',
     image: '/images/projects/2.png',
     tag: ['All', 'Web'],
-    gitUrl: '/https://github.com/rawnok-18/Solver',
+    gitUrl: 'https://github.com/rawnok-18/Solver',
     previewUrl: 'https://rawnok-18.github.io/Solver/'
   },
   {
