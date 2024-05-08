@@ -11,8 +11,8 @@ const projectsData = [
     description: 'Powered by Gemini pro',
     image: '/images/projects/1.png',
     tag: ['All', 'Web'],
-    gitUrl: 'https://github.com/Sakif-0713/rai-ai',
-    previewUrl: 'https://rai-ai-sakif-0713s-projects.vercel.app/'
+    gitUrl: 'https://github.com/rawnok-18/rai-ai',
+    previewUrl: 'https://rai-ai-five.vercel.app/'
   },
   {
     id: 2,
